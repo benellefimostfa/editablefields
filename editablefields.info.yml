@@ -1,0 +1,6 @@
+name: editablefields
+type: module
+description: Allows you to make some fields editable from the display.
+core: 8.x
+package: Fields
+features: true
